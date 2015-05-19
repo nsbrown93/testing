@@ -14,3 +14,13 @@ z = func(z);
 
 disp(z)
 
+
+% Test new function
+
+for i = 1:10
+    
+    z = func(z);
+    
+end
+
+disp(z)
